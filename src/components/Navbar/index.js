@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer style={{backgroundColor:`${theme==='lightTheme'?lightTheme.navBackgroundColor:''}`}}>
-        <a style={{display: "flex", alignItems: "center", marginBottom: '20;', cursor: 'pointer', textDecoration: 'none'}} href='https://mugishbeldar.onrender.com/#about'>
+        <a style={{display: "flex", alignItems: "center", marginBottom: '20;', cursor: 'pointer', textDecoration: 'none'}} href='https://portfolio-eta-nine-47.vercel.app/#about'>
           <FaLaptopCode size="2rem" />
         </a>
         <MobileIcon>
